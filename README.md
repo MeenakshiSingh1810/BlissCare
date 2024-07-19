@@ -17,6 +17,17 @@ BlissCare is a hospital management application designed to streamline patient re
 - **AppWrite**: Open-source backend server for web, mobile, and Flutter developers.
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.
 
+  ## Screenshots
+
+![Login Screen](images/Screenshot-2024-07-19-125427.png)
+*Login Screen*
+
+![Dashboard](images/Screenshot-2024-07-19-125559.png)
+*Dashboard*
+
+![Appointment Booking](images/Screenshot-2024-07-19-125652.png)
+*Appointment Booking*
+
 ## Installation
 
 To get started with BlissCare, follow these steps:
