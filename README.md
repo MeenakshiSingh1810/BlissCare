@@ -19,13 +19,13 @@ BlissCare is a hospital management application designed to streamline patient re
 
   ## Screenshots
 
-![Login Screen](Screenshot-2024-07-19-125427.png)
+![Login Screen](Screenshot 2024-07-19 125427.png)
 *Login Screen*
 
-![Dashboard](Screenshot-2024-07-19-125559.png)
+![Dashboard](Screenshot-2024-07-19 125559.png)
 *Dashboard*
 
-![Appointment Booking](Screenshot-2024-07-19-125652.png)
+![Appointment Booking](Screenshot-2024-07-19 125652.png)
 *Appointment Booking*
 
 ## Installation
